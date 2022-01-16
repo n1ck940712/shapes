@@ -12,7 +12,7 @@ Shapes are created with the input as stated:
  - height: height of the shape
 
 Image below depicts example of shapes created.
-![example of created shapes](https://github.com/n1ck940712/shapes/screenshots/example_of_created_shapes.png?raw=true)
+![example of created shapes](https://github.com/n1ck940712/shapes/blob/main/screenshots/example_of_created_shapes.png?raw=true?raw=true)
 
 # How to get it running
 - Clone to directory from GitHub repo https://github.com/n1ck940712/shapes
